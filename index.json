@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "name": "mangadex",
+    "url": "https://mangadex.org",
+    "version": "2.1.0"
+  },
+  {
+    "id": 0,
+    "name": "mangasee",
+    "url": "https://mangasee123.com",
+    "version": "2.1.0"
+  },
+  {
+    "id": 0,
+    "name": "local",
+    "url": "/Users/runner/.tanoshi/.manga",
+    "version": "2.0.0"
+  }
+]

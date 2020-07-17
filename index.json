@@ -1,20 +1,23 @@
 [
   {
-    "id": 0,
-    "name": "mangadex",
-    "url": "https://mangadex.org",
+    "name": "mangasee",
+    "path": "library/mangasee-v2.1.0.so",
+    "rustc_version": "1.44.1",
+    "core_version": "0.12.0",
     "version": "2.1.0"
   },
   {
-    "id": 0,
     "name": "local",
-    "url": "/home/runner/.tanoshi/.manga",
+    "path": "library/local-v2.0.0.so",
+    "rustc_version": "1.44.1",
+    "core_version": "0.12.0",
     "version": "2.0.0"
   },
   {
-    "id": 0,
-    "name": "mangasee",
-    "url": "https://mangasee123.com",
+    "name": "mangadex",
+    "path": "library/mangadex-v2.1.0.so",
+    "rustc_version": "1.44.1",
+    "core_version": "0.12.0",
     "version": "2.1.0"
   }
 ]

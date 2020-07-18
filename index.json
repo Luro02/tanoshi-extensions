@@ -15,9 +15,9 @@
   },
   {
     "name": "local",
-    "path": "library/local-v2.1.1.dylib",
+    "path": "library/local-v2.1.2.dylib",
     "rustc_version": "1.44.1",
     "core_version": "0.12.1",
-    "version": "2.1.1"
+    "version": "2.1.2"
   }
 ]

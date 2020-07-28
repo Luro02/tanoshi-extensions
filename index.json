@@ -1,7 +1,7 @@
 [
   {
-    "name": "mangasee",
-    "path": "library/mangasee-v2.1.1.so",
+    "name": "mangadex",
+    "path": "library/mangadex-v2.1.1.so",
     "rustc_version": "1.45.0",
     "core_version": "0.13.0",
     "version": "2.1.1"
@@ -14,10 +14,10 @@
     "version": "2.1.2"
   },
   {
-    "name": "mangadex",
-    "path": "library/mangadex-v2.1.1.so",
+    "name": "mangasee",
+    "path": "library/mangasee-v2.1.2.so",
     "rustc_version": "1.45.0",
     "core_version": "0.13.0",
-    "version": "2.1.1"
+    "version": "2.1.2"
   }
 ]

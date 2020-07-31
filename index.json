@@ -3,21 +3,21 @@
     "name": "mangadex",
     "path": "library/mangadex-v2.1.1.dylib",
     "rustc_version": "1.45.0",
-    "core_version": "0.13.0",
+    "core_version": "0.14.0",
     "version": "2.1.1"
   },
   {
     "name": "mangasee",
     "path": "library/mangasee-v2.1.2.dylib",
     "rustc_version": "1.45.0",
-    "core_version": "0.13.0",
+    "core_version": "0.14.0",
     "version": "2.1.2"
   },
   {
     "name": "local",
     "path": "library/local-v2.1.2.dylib",
     "rustc_version": "1.45.0",
-    "core_version": "0.13.0",
+    "core_version": "0.14.0",
     "version": "2.1.2"
   }
 ]

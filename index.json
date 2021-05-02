@@ -2,21 +2,21 @@
   {
     "name": "local",
     "path": "library\\local-v2.1.4.dll",
-    "rustc_version": "1.46.0",
+    "rustc_version": "1.51.0",
     "core_version": "0.15.0",
     "version": "2.1.4"
   },
   {
     "name": "mangadex",
     "path": "library\\mangadex-v2.1.4.dll",
-    "rustc_version": "1.46.0",
+    "rustc_version": "1.51.0",
     "core_version": "0.15.0",
     "version": "2.1.4"
   },
   {
     "name": "mangasee",
     "path": "library\\mangasee-v2.1.4.dll",
-    "rustc_version": "1.46.0",
+    "rustc_version": "1.51.0",
     "core_version": "0.15.0",
     "version": "2.1.4"
   }

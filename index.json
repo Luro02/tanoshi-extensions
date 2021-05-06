@@ -1,12 +1,5 @@
 [
   {
-    "name": "local",
-    "path": "library/local-v2.1.4.so",
-    "rustc_version": "1.51.0",
-    "core_version": "0.15.0",
-    "version": "2.1.4"
-  },
-  {
     "name": "mangadex",
     "path": "library/mangadex-v2.1.4.so",
     "rustc_version": "1.51.0",
@@ -15,7 +8,14 @@
   },
   {
     "name": "mangasee",
-    "path": "library/mangasee-v2.1.4.so",
+    "path": "library/mangasee-v2.1.5.so",
+    "rustc_version": "1.51.0",
+    "core_version": "0.15.0",
+    "version": "2.1.5"
+  },
+  {
+    "name": "local",
+    "path": "library/local-v2.1.4.so",
     "rustc_version": "1.51.0",
     "core_version": "0.15.0",
     "version": "2.1.4"
